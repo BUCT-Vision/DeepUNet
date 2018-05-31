@@ -1,3 +1,3 @@
-This is a implementation of DeepUNet.
+This is an implementation of DeepUNet by mxnet.
 
-There are some different from original paper.
+There are some differents from the original paper.
